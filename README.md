@@ -38,18 +38,7 @@ La **Estadística Espacial** es una rama fundamental de la geografía cuantitati
 
 Todo el fundamento de esta disciplina parte de un principio central:
 
-> [!IMPORTANT]
-> ###  Primera Ley de la Geografía — Waldo Tobler
-> *"Todo está relacionado con todo lo demás, pero las cosas cercanas están más relacionadas que las cosas distantes."*
 
-```mermaid
-flowchart LR
-    A(["📍 Ubicación A"]) -.->|Alta dependencia espacial| B(["📍 Ubicación B\n(cercana)"])
-    A ==>|Baja dependencia espacial| C(["📍 Ubicación C\n(distante)"])
-
-    style A fill:#111827,color:#fff
-    style B fill:#2563EB,color:#fff
-    style C fill:#9CA3AF,color:#fff
 ```
 
 <br>
