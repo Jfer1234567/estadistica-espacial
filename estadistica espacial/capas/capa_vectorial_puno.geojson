@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "name": "provincias_puno_vectorial",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "provincia": "PUNO",
+        "departamento": "PUNO",
+        "capital": "Puno",
+        "poblacion_2024": 226000,
+        "superficie_km2": 6494.76,
+        "altitud_media_m": 3827,
+        "tipo_geometria": "Polígono Vectorial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-70.15, -15.70],
+            [-69.85, -15.70],
+            [-69.75, -16.05],
+            [-70.00, -16.25],
+            [-70.30, -16.00],
+            [-70.15, -15.70]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "provincia": "SAN ROMAN",
+        "departamento": "PUNO",
+        "capital": "Juliaca",
+        "poblacion_2024": 307000,
+        "superficie_km2": 1211.62,
+        "altitud_media_m": 3824,
+        "tipo_geometria": "Polígono Vectorial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-70.35, -15.35],
+            [-70.05, -15.35],
+            [-70.00, -15.65],
+            [-70.30, -15.65],
+            [-70.35, -15.35]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "provincia": "CHUCUITO",
+        "departamento": "PUNO",
+        "capital": "Juli",
+        "poblacion_2024": 89000,
+        "superficie_km2": 3978.13,
+        "altitud_media_m": 3870,
+        "tipo_geometria": "Polígono Vectorial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-69.60, -16.10],
+            [-69.25, -16.15],
+            [-69.15, -16.60],
+            [-69.50, -16.70],
+            [-69.60, -16.10]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "provincia": "HUANCANE",
+        "departamento": "PUNO",
+        "capital": "Huancané",
+        "poblacion_2024": 65000,
+        "superficie_km2": 2805.85,
+        "altitud_media_m": 3840,
+        "tipo_geometria": "Polígono Vectorial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-69.90, -15.10],
+            [-69.50, -15.10],
+            [-69.55, -15.45],
+            [-69.95, -15.40],
+            [-69.90, -15.10]
+          ]
+        ]
+      }
+    }
+  ]
+}
