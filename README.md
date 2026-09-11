@@ -18,7 +18,7 @@
 |---|---|
 |  **Curso** | Estadística Espacial |
 |  **Docente** | Ing. Fred Torres-Cruz |
-|  **Autor / Estudiante** | Jfer1234567 |
+|  **Autor / Estudiante** | Jose Fernando Gomez Tacuri |
 |  **Tipo de repositorio** | Académico — Teoría y Laboratorios |
 |  **Periodo** | Ciclo académico vigente |
 
