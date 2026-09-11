@@ -6,10 +6,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Curso-Estad%C3%ADstica%20Espacial-6D28D9?style=for-the-badge">
-<img src="https://img.shields.io/badge/QGIS-3.44%20LTR-3AAE2C?style=for-the-badge&logo=qgis&logoColor=white">
-<img src="https://img.shields.io/badge/Estado-En%20curso-16A34A?style=for-the-badge">
-
 </div>
 
 <br>
