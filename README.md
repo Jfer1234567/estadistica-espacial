@@ -36,14 +36,6 @@ Bienvenidos al **repositorio oficial** del curso de Estadística Espacial. Este 
 
 La **Estadística Espacial** es una rama fundamental de la geografía cuantitativa y la ciencia de datos espaciales. A diferencia de la estadística tradicional, esta disciplina incorpora la **topología**, la **distancia** y la **ubicación** directamente en las matemáticas del análisis.
 
-Todo el fundamento de esta disciplina parte de un principio central:
-
-
-```
-
->  Cada práctica se documenta en su propia carpeta, con evidencias, capturas y el detalle metodológico correspondiente.
-
-<br>
 
 
 **Repositorio académico mantenido por [Jfer1234567](https://github.com/Jfer1234567)**
