@@ -1,8 +1,5 @@
 # 🌍 Curso: Estadística Espacial 
 
-![QGIS](https://img.shields.io/badge/QGIS-3.44%20LTR-green?style=for-the-badge&logo=qgis)
-![Vectorial](https://img.shields.io/badge/Modelo-Vectorial-blue?style=for-the-badge)
-![Raster](https://img.shields.io/badge/Modelo-Raster-orange?style=for-the-badge)
 
 Bienvenidos a mi repositorio del curso de Estadística Espacial. Este espacio documenta la evaluación práctica basada en los conceptos teóricos del **Capítulo 1.1: Datos Vectoriales y Raster (Prof. Fred Torres-Cruz)**.
 
