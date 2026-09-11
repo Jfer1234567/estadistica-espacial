@@ -8,12 +8,12 @@ Bienvenidos a mi repositorio del curso de Estadística Espacial. Este espacio do
 
 ---
 
-## 🎯 Objetivo de la Práctica
+##  Objetivo de la Práctica
 Comprender la diferencia ontológica y práctica entre el **modelo vectorial** (representación de entidades discretas mediante coordenadas explícitas) y el **modelo raster** (representación de variaciones espaciales continuas mediante matrices de celdas).
 
 ---
 
-## 📸 Evidencias de Evaluación
+## Evidencias de Evaluación
 
 ### 1️⃣ Instalación de QGIS
 Se utiliza la versión **QGIS 3.44 LTR (Long Term Release)**, el estándar más estable para realizar estadísticas zonales y álgebra de mapas.
@@ -23,7 +23,7 @@ Se utiliza la versión **QGIS 3.44 LTR (Long Term Release)**, el estándar más 
 </p>
 
 ### 2️⃣ Modelo Espacial Raster
-**Capa:** `capa_raster_elevacion.asc`  
+ 
 Representación espacial de un Modelo Digital de Elevación (DEM) de la zona de Puno. Renderizado en *Pseudocolor monobanda* para apreciar el campo continuo.
 > **Pregunta 3 del Formulario**
 <p align="center">
@@ -31,7 +31,7 @@ Representación espacial de un Modelo Digital de Elevación (DEM) de la zona de 
 </p>
 
 ### 3️⃣ Modelo Espacial Vectorial
-**Capa:** `capa_vectorial_puno.geojson`  
+ 
 Representación de las provincias de Puno. Se muestra la relación entre la geometría (los polígonos territoriales) y su tabla de atributos socio-demográficos (Población y Superficie).
 > **Pregunta 4 del Formulario**
 <p align="center">
