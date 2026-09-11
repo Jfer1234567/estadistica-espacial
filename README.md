@@ -1,39 +1,31 @@
-# 🌍 Curso: Estadística Espacial 
+# Curso: Estadística Espacial
 
+Bienvenidos al repositorio oficial para el curso de **Estadística Espacial**. Este espacio tiene como propósito documentar el aprendizaje, análisis teóricos y laboratorios prácticos desarrollados durante el ciclo académico.
 
-Bienvenidos a mi repositorio del curso de Estadística Espacial. Este espacio documenta la evaluación práctica basada en los conceptos teóricos del **Capítulo 1.1: Datos Vectoriales y Raster (Prof. Fred Torres-Cruz)**.
+##  Sobre el Curso
+La **Estadística Espacial** es una rama fundamental de la geografía cuantitativa y la ciencia de datos espaciales. A diferencia de la estadística tradicional, esta disciplina incorpora la *topología*, la *distancia* y la *ubicación* directamente en las matemáticas, partiendo de la Primera Ley de la Geografía de Tobler: *"Todo está relacionado con todo lo demás, pero las cosas cercanas están más relacionadas que las cosas distantes"*.
 
----
-
-##  Objetivo de la Práctica
-Comprender la diferencia ontológica y práctica entre el **modelo vectorial** (representación de entidades discretas mediante coordenadas explícitas) y el **modelo raster** (representación de variaciones espaciales continuas mediante matrices de celdas).
-
----
-
-## Evidencias de Evaluación
-
-### 1️⃣ Instalación de QGIS
-Se utiliza la versión **QGIS 3.44 LTR (Long Term Release)**, el estándar más estable para realizar estadísticas zonales y álgebra de mapas.
-> **Pregunta 2 del Formulario**
-<p align="center">
-  <img src="estadistica espacial/evidencias/1_instalacion_qgis.png" width="800px" alt="Instalación QGIS">
-</p>
-
-### 2️⃣ Modelo Espacial Raster
- 
-Representación espacial de un Modelo Digital de Elevación (DEM) de la zona de Puno. Renderizado en *Pseudocolor monobanda* para apreciar el campo continuo.
-> **Pregunta 3 del Formulario**
-<p align="center">
-  <img src="estadistica espacial/evidencias/2_capa_raster.png" width="800px" alt="Capa Raster">
-</p>
-
-### 3️⃣ Modelo Espacial Vectorial
- 
-Representación de las provincias de Puno. Se muestra la relación entre la geometría (los polígonos territoriales) y su tabla de atributos socio-demográficos (Población y Superficie).
-> **Pregunta 4 del Formulario**
-<p align="center">
-  <img src="estadistica espacial/evidencias/3_capa_vectorial.png" width="800px" alt="Capa Vectorial">
-</p>
+###  Temas y Unidades del Semestre
+A lo largo de este repositorio se explorarán los siguientes ejes temáticos:
+- **Modelamiento de Datos Espaciales:** Diferencias ontológicas y prácticas entre datos continuos (Raster) y discretos (Vectoriales).
+- **Análisis Topológico y Geoprocesamiento:** Álgebra de mapas, estadísticas zonales y proximidad.
+- **Autocorrelación Espacial:** Identificación de clústers y valores atípicos (Índice de Moran, LISA).
+- **Interpolación Espacial:** Métodos determinísticos (IDW) y probabilísticos (Kriging).
+- **Análisis de Patrones Puntuales.**
 
 ---
-*Práctica Calificada presentada por Jfer1234567.*
+
+## Trabajos y Evaluaciones del Semestre
+
+A continuación se listan las prácticas aplicadas que demuestran el dominio de la teoría:
+
+###  [Práctica 1: Fundamentos de Modelos Vectoriales y Raster](estadistica%20espacial/)
+* **Descripción:** Implementación de la teoría del Prof. Fred Torres-Cruz para diferenciar cómo los sistemas GIS conciben el espacio geográfico.
+* **Entregables:** 
+  - [Instalación del entorno QGIS LTR](estadistica%20espacial/evidencias/1_instalacion_qgis.png)
+  - [Superficies continuas: Análisis de Modelo Digital de Elevación (Raster)](estadistica%20espacial/evidencias/2_capa_raster.png)
+  - [Entidades discretas: Análisis de polígonos y tabla de atributos socio-demográficos (Vectorial)](estadistica%20espacial/evidencias/3_capa_vectorial.png)
+
+---
+ *Repositorio académico mantenido por Jfer1234567.*
+
