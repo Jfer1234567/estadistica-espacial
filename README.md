@@ -41,13 +41,6 @@ Todo el fundamento de esta disciplina parte de un principio central:
 
 ```
 
-<br>
-
-
-</div>
-
-<br>
-
 >  Cada práctica se documenta en su propia carpeta, con evidencias, capturas y el detalle metodológico correspondiente.
 
 <br>
